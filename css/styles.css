@@ -19,6 +19,7 @@
 .link {
   text-decoration: none;
   font-style: normal;
+  color: var(--primary-text-color-theme-light);
 }
 body {
   font-family: var(--main-font-family);
