@@ -49,13 +49,15 @@ button {
   color: var(--hover-state-color);
 }
 
+.main-adress {
+  font-style: normal;
+}
 .adress-item-link {
   font-family: inherit;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: inherit;
-  font-style: normal;
 }
 .adress-item-link:hover,
 .adress-item-link:focus {
@@ -118,6 +120,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--secondary-text-color-theme-light);
 }
 .secondary-titile {
   font-weight: 700;
